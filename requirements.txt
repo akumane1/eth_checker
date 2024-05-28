@@ -5,3 +5,4 @@ mnemonic==0.21
 python-telegram-bot==21.2
 Requests==2.32.2
 web3==5.31.3
+inspect
